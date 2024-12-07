@@ -1,10 +1,9 @@
 `dirty_cat`
 ===========
 
-.. warning::
 
-    **dirty_cat has migrated to `skrub <https://github.com/skrub-data/skrub/>`__ .
-    This repository will no longer be maintained.**
+**dirty_cat has migrated to `skrub <https://github.com/skrub-data/skrub/>`__ .
+This repository will no longer be maintained.**
 
 .. image:: https://dirty-cat.github.io/stable/_static/dirty_cat.svg
    :align: center
