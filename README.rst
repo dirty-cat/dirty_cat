@@ -13,12 +13,18 @@
 
 |
 
+Do not use dirty_cat, but rather the skrub package
+----------------------------------------------------
+
 `dirty_cat <https://dirty-cat.github.io/>`_ was a Python library
 to facilitate machine-learning on dirty categorical variables.
 
 Its functionalities are merged in the `skrub <https://skrub-data.org>`_
 
 |
+
+Dirty categories
+-------------------
 
 For a detailed description of the problem of encoding dirty categorical data, see
 `Similarity encoding for learning with dirty categorical variables <https://hal.inria.fr/hal-01806175>`_ [1]_
