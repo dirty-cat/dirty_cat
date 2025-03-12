@@ -11,18 +11,14 @@
    :align: center
    :alt: dirty_cat logo
 
+|
 
-|py_ver| |pypi_var| |pypi_dl| |codecov| |circleci| |black|
+`dirty_cat <https://dirty-cat.github.io/>`_ was a Python library
+to facilitate machine-learning on dirty categorical variables.
 
-.. |py_ver| image:: https://img.shields.io/pypi/pyversions/dirty_cat
-.. |pypi_var| image:: https://img.shields.io/pypi/v/dirty_cat?color=informational
-.. |pypi_dl| image:: https://img.shields.io/pypi/dm/dirty_cat
-.. |codecov| image:: https://img.shields.io/codecov/c/github/dirty-cat/dirty_cat/main
-.. |circleci| image:: https://img.shields.io/circleci/build/github/dirty-cat/dirty_cat/main?label=CircleCI
-.. |black| image:: https://img.shields.io/badge/code%20style-black-000000.svg
+Its functionalities are merged in the `skrub <https://skrub-data.org>`_
 
-`dirty_cat <https://dirty-cat.github.io/>`_ is a Python library
-that facilitates machine-learning on dirty categorical variables.
+|
 
 For a detailed description of the problem of encoding dirty categorical data, see
 `Similarity encoding for learning with dirty categorical variables <https://hal.inria.fr/hal-01806175>`_ [1]_
@@ -56,9 +52,10 @@ methods.
 Installation
 ------------
 
-dirty_cat can be easily installed via `pip`::
+Please do not use dirty-cat anymore, but rather skrub, which has the same
+features, replaces dirty-cat and can be easily installed via `pip`::
 
-    pip install dirty_cat
+    pip install skrub
 
 Dependencies
 ~~~~~~~~~~~~
@@ -68,18 +65,15 @@ Dependencies and minimal versions are listed in the `setup <https://github.com/d
 Related projects
 ----------------
 
-Are listed on the `dirty_cat's website <https://dirty-cat.github.io/stable/#related-projects>`_
+`skrub <https://skrub-data.org>`_
 
 Contributing
 ------------
 
-If you want to encourage development of `dirty_cat`,
-the best thing to do is to *spread the word*!
+If you want to encourage development of these functionality, the best
+thing to do is to *spread the word* around `skrub <https://skrub-data.org>`_
 
-If you encounter an issue while using `dirty_cat`, please
-`open an issue <https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue>`_ and/or
-`submit a pull request <https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request>`_.
-Don't hesitate, you're helping to make this project better for everyone!
+And please contribute to `skrub <https://github.com/skrub-data/skrub>`_
 
 Additional resources
 --------------------
