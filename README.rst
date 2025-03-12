@@ -1,10 +1,11 @@
 `dirty_cat`
 ===========
 
-.. warning::
 
-    *dirty_cat* has migrated to `skrub <https://github.com/skrub-data/skrub/>`_.
-    This repository will no longer be maintained.
+**dirty_cat has migrated** to `skrub <https://github.com/skrub-data/skrub>`__ .
+**This repository will no longer be maintained.**
+
+**Use skrub**, it has all the features of dirty-cat and more.
 
 .. image:: https://dirty-cat.github.io/stable/_static/dirty_cat.svg
    :align: center
@@ -27,7 +28,6 @@ For a detailed description of the problem of encoding dirty categorical data, se
 `Similarity encoding for learning with dirty categorical variables <https://hal.inria.fr/hal-01806175>`_ [1]_
 and `Encoding high-cardinality string categorical variables <https://hal.inria.fr/hal-02171256v4>`_ [2]_.
 
-If you like the package, please *spread the word*, and ⭐ `the repository <https://github.com/dirty-cat/dirty_cat/>`_!
 
 What can `dirty_cat` do?
 ------------------------
